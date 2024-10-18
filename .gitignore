@@ -1,0 +1,66 @@
+# IntelliJ IDEA specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IDE settings
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/.name
+.idea/httpRequests
+.idea/gradle.xml
+.idea/libraries
+
+# Logs and temp files
+.idea/*.log
+.idea/.idea.log
+.idea/usage.statistics.xml
+
+# Compiler output
+out/
+
+# User-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.DS_Store
+*.iml
+
+# File-based project formats
+*.ipr
+*.iws
+
+# Ignore IntelliJ project-specific files that get automatically regenerated
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/shelf/
+
+# Ignore JetBrains IDE config folder
+.idea/
+
+# Exclude build outputs
+out/
+build/
+target/
+
+# Ignore Maven and Gradle output
+*.class
+*.jar
+*.war
+*.ear
+
+# Other IntelliJ-specific files
+.idea/misc.xml
+.idea/modules.xml
+.idea/shelf/
+.idea/workspace.xml
